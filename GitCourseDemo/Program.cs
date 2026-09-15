@@ -2,8 +2,7 @@
 
 
 var x = 5;
-
-while (x > 5)
+while (x <= 5)
 {
     Console.WriteLine($"welcome to GitCourse {x}");
     x--;
